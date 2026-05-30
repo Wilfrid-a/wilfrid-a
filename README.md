@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Mechanic
 - 🌱 I’m currently learning Eletric Engenear
-- 💬 Ask me about Car
+- 💬 Ask me about Car, Robotic, Astronomy, and GYN
 
 
 <div style="display: inline_block"><br>
